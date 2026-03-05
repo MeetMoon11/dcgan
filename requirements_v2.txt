@@ -1,0 +1,4 @@
+datasets>=2.14
+huggingface_hub>=0.16
+pillow>=9.0
+tqdm>=4.65
